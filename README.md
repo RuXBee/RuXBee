@@ -1,4 +1,5 @@
 ### 👋 I'm Ruben  
-
-<center>![](https://github.com/RuXBee/RuXBee/blob/main/gifs/tenor.gif)</center>
+<p align="center">
+  <img src="https://github.com/RuXBee/RuXBee/blob/main/gifs/tenor.gif" alt="animated" />
+</p>
 
